@@ -107,3 +107,5 @@ dist
 .idea/modules.xml
 .idea/typescript.iml
 .idea/vcs.xml
+
+.history/
