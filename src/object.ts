@@ -6,4 +6,4 @@ profile1 = { brithYear: 1976 };
 let profile2: {
   name: string;
 } = { name: 'Ham' };
-profile2 = { name: 'Nimo' };
+profile2 = { name: '1967' };
